@@ -1,9 +1,9 @@
 # 🖤 Quick Info:
-Hi, I’m @DianaCreates and this space will be used for all sorts of creations. I will use this site to explore my thoughts but in code. I hope you'll enjoy it!
+Hi, I’m @DianaCreates, and this space will be used for all sorts of creations. I will use this site to explore my thoughts, but in code. I hope you'll enjoy it!
 
 # 💁🏾‍♀️ About Me:
-I’m currently a student at New Jersey Institute of Technology, majoring in Biology but soon to be in Computer Engineering. Currently, I am using my time to learn more coding languages.
-My focus right now is on Python, IT, and AI! Also, interested in coding and hardware building.
+I’m currently a student at New Jersey Institute of Technology, majoring in Biology. Currently, I am using my time to learn more coding languages.
+My focus right now is on Python, IT, and AI! Also, interested in coding, neuroscience, and genes.
 
 # 🧑🏾‍💻 Coding Languages I Know: 
 Python, C++, HTML & CSS, Javascript
